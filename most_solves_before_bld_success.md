@@ -1,4 +1,4 @@
-## Most solves before getting a successful BLD attempt
+## Most attempts before getting a successful BLD solve
 
 *Updated on  6 August 2023*
 
